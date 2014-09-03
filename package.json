@@ -1,8 +1,8 @@
 {
   "name": "hubot-wargames",
-  "version": "0.1.1",
+  "version": "0.1.3",
   "description": "Hubot interaction based on the movie Wargames (http://www.imdb.com/title/tt0086567/)",
-  "main": "wargames.coffee",
+  "main": "./src/wargames",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

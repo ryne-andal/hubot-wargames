@@ -19,10 +19,10 @@ Add `hubot-wargames` to your `package.json` file:
   }
 ```
 
-Add `hubot-pull-request` to your `external-scripts.json`:
+Add `hubot-wargames` to your `external-scripts.json`:
 
 ```
-["hubot-pull-request"]
+["hubot-wargames"]
 ```
 
 Run `npm install`.

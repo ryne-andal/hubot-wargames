@@ -1,6 +1,6 @@
 {
   "name": "hubot-wargames",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hubot interaction based on the movie Wargames (http://www.imdb.com/title/tt0086567/)",
   "main": "wargames.coffee",
   "scripts": {
